@@ -3,9 +3,10 @@
 My first data analysis project is used by Power BI to create dashboard and spreadsheets to clean datas.
 
 ## About dataset
+
 ***Source:*** Rikkei Academy (Group FB)
 
-***Lastest update:** 2021
+***Lastest update:*** 2021
 
 ***Usage date:*** Oct - 03 - 2026
 
